@@ -2,8 +2,8 @@
 
 This smart contract records "waves" along with a message. Using it to learn more about web3.
 
-Frontend deployed here: https://waveportal-solidity.vercel.app/
-Frontend code here: https://github.com/ybce/waveportal
+- Frontend deployed here: https://waveportal-solidity.vercel.app/
+- Frontend code here: https://github.com/ybce/waveportal
 
 
 # Basic Sample Hardhat Project
